@@ -34,7 +34,7 @@ def segment_knee_image(knee_img):
     return segmented_knee_img
 
 # Path to the directory containing knee DICOM images
-input_dir = './Knee_dataset/series-00000/'
+input_dir = './Knee_dataset/series-00002/'
 output_dir = './KneeOutput/'
 
 # Create the output directory if it does not exist
